@@ -1,4 +1,6 @@
 import React from "react";
+
+// Styles
 import { StyledStartButton } from "./styles/StyledStartButton";
 
 const StartButton = ({ callback }) => (

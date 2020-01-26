@@ -1,4 +1,6 @@
 import React from "react";
+
+//Styles
 import { StyledDisplay } from "./styles/StyledDisplay";
 
 const Display = ({ gameOver, text }) => (
